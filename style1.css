@@ -1,0 +1,165 @@
+.container{
+    width: 1170px;
+    margin: auto;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 140px;
+    height: 60px;
+    border: solid 2px green;
+}
+.navigation{
+    width: 750px;
+    height: 60px;
+    border: solid 2px green;
+}
+.banner-header{
+    width: 1170px;
+    height: 350px;
+    border: solid 2px green;
+}
+.about-header{
+    width: 1170px;
+    height: 200px;
+    border: solid 2px green;
+}
+.about-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.about-wrapper-1{
+    border: solid 2px green;
+    width: 50%;
+    height: 180px;
+}
+.services-header{
+    height: 200px;
+    border: solid 2px green;
+}
+.services-wrapper-1{
+    display: flex;
+}
+.services-item-1{
+    height: 300px;
+    width: 25%;
+    border: solid 2px green;
+}
+.services-wrapper-2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.services-item-2{
+    height: 70px;
+    outline: solid 2px green;
+    width: 25%;
+}
+.about-text{
+    height: 280px;
+    width: 1170px;
+    border: solid 2px green;
+}
+.portfolio-header{
+    height: 250px;
+    width: 1170px;
+    border: solid 2px green;
+}
+.portfolio-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.portfolio-image{
+    width: 33.33%;
+    height: 265px;
+    outline: solid 2px green;
+}
+.pricing-header{
+    width: 1170px;
+    height: 190px;
+    outline: solid 2px green;
+}
+.pricing-wrapper{
+    display: flex;
+}
+.pricing-item{
+    width: 33.33%;
+    height: 460px;
+    outline: solid 2px green;
+}
+.faq-header{
+    width: 1170px;
+    height: 130px;
+    border: solid 2px green;
+}
+.faq-qn1{
+    width: 820px;
+    border: solid 2px green;
+    height: 50px;
+    margin: auto;
+}
+.team-header{
+    width: 1170px;
+    border: solid 2px green;
+    height: 200px;
+}
+.team-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.team-item-1{
+    width: 25%;
+    border: solid 2px green;
+    height: 360px;
+}
+.contact-header{
+    width: 1170px;
+    height: 200px;
+    border: solid 2px green;
+}
+.contact-location{
+    width: 1170px;
+    height: 270px;
+    border: solid 2px green;
+}
+.contact-wrapper{
+    display: flex;
+}
+.contact-left-text1{
+    width: 380px;
+    height: 75px;
+    border: solid 2px green;
+}
+.contact-right{
+    width: 740px;
+    height: 400px;
+    border: solid 2px green;
+}
+.footer-top-wrapper{
+    display: flex;
+}
+.footer-top-1{
+    width: 200px;
+    height: 300px;
+    border: solid 2px green;
+}
+.footer-top-2{
+    width: 400px;
+    height: 300px;
+    border: solid 2px green;
+}
+.footer-bottom-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-bottom-1{
+    width: 300px;
+    height: 100px;
+    border: solid 2px green;
+}
+.footer-bottom-2{
+    width: 300px;
+    height: 100px;
+    border: solid 2px green;
+}
